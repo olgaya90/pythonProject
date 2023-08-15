@@ -8,7 +8,7 @@
 суммы цифр id на семь
 """
 
-from task_3 import Human
+from task3 import Human
 from random import randint
 
 
